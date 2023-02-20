@@ -1,0 +1,191 @@
+.main-container{
+    background-color: black;
+    height: 650px;
+    /* justify-content:space-between; */
+
+}
+.sub-conatiner1{
+    display: flex;
+    justify-content: space-around;
+}
+.first-box{
+    height: 170px;
+    width:235px;
+    border-radius: 5px;
+    background-color: rgb(63, 58, 58);
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 100px,
+  'opsz' 480px
+}
+.center-image img{
+    height:80px;
+    width:80px;
+    align-content: center;
+    justify-content: center;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.right-to-main{
+    color: white;
+    padding-top:140px ;
+    margin-left: 30px;
+}
+.name-main{
+    display: flex;
+    align-items:end;
+    /* border-radius: 5px; */
+    /* background-color: white; */
+} 
+
+.first-box1{
+    height: 170px;
+    width:235px;
+    border-radius: 5px;
+    background-color: rgb(63, 58, 58);
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+/* ----------------------------------------------------------------------------------------- */
+.right-to-main1{
+    color: rgb(17, 17, 17);
+    padding-top:0px ;
+    margin-left: 20px;
+    padding-top:-20px;
+}
+.name-main1{
+    display: flex;
+    align-items:center;
+    border-radius: 8px; 
+    background-color: white;
+    height:25px;
+    align-content: center;
+    margin-top: 130px;
+    width:150px;
+    margin-left: 10px;
+} 
+
+.left-to-main1{
+padding-top:0px;
+}
+/* ------------------------------------------------------------------------------------ */
+/* ----------------------------------------------------------------------------------------- */
+.right-to-main8{
+    color: rgb(17, 17, 17);
+    padding-top:0px ;
+    margin-left: 20px;
+    padding-top:-20px;
+}
+.name-main8{
+    display: flex;
+    align-items:center;
+    border-radius: 8px; 
+    background-color: white;
+    height:25px;
+    align-content: center;
+    margin-top: 130px;
+    width:150px;
+    margin-left: 10px;
+} 
+
+.left-to-main{
+padding-top:50px;
+}
+/* ------------------------------------------------------------------------------------ */
+/* ----------------------------------------------------------------------------------------- */
+.right-to-main1{
+    color: rgb(17, 17, 17);
+    padding-top:0px ;
+    margin-left: 20px;
+    padding-top:-20px;
+}
+.name-main1{
+    display: flex;
+    align-items:center;
+    border-radius: 8px; 
+    background-color: white;
+    height:25px;
+    align-content: center;
+    margin-top: 130px;
+    width:150px;
+    margin-left: 10px;
+} 
+
+.left-to-main{
+padding-top:50px;
+}
+/* ------------------------------------------------------------------------------------ */
+
+
+
+
+.sub-conatiner2{
+   display:flex;
+   justify-content: space-around;
+   margin-top: 10px;
+  
+}
+.sub-conatiner3{
+    display:flex;
+    justify-content: space-around;
+    margin-top: 10px;
+   
+ }
+ .sub-container4{
+    display:flex;
+    justify-content:left;
+    margin-top: 30px;
+    color: white;
+    margin-left: 10px;
+   
+ }
+ .symbols{
+    /* margin-left: 100px; */
+    padding-left: 150px;
+    
+ }
+ #s1{
+    padding-right: 20px;
+    cursor: pointer;
+ }
+ #s2{
+    padding-right: 20px;
+    cursor: pointer;
+ }
+ #s3{
+    padding-right: 20px;
+    cursor: pointer;
+ }
+ #s4{
+    padding-right: 20px;
+    cursor: pointer;
+
+ }
+ #s5{
+    padding-right: 20px;
+    cursor: pointer;
+ }
+ #s6{
+    padding-right: 20px;
+    cursor: pointer;
+ }
+ 
+ #s7{
+    padding-right: 20px;
+    cursor: pointer;
+ }
+ #s8{
+    padding-right: 20px;
+    cursor: pointer;
+ }
+ 
+ 
+ 
